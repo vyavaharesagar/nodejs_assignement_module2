@@ -1,0 +1,7 @@
+Architecture of nginx
+
+uses master slave Architecture bu supporting even-driven, asynchronous and non-blocking model
+
+pm2 -- node js service (process manager)
+
+clustors in nodejs  
